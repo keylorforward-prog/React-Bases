@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(7, 26, 26);
+}
+
+.form-negocios {
+    border-radius: 7px;
+    background: rgb(159, 199, 60);
+    padding: 10px;
+    color: rgb(34, 33, 33);
+    font-style: italic;
+}
